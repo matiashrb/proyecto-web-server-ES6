@@ -1,11 +1,11 @@
 
-import express from 'express' //ET6
+import express from 'express' //ES6
 //const express = require('express')
 //const path = require('path')
-import path from 'path' //ET6
+import path from 'path' //ES6
 
 
-//ET6
+//ES6
 export const startServer = (options) => {
     const { port, public_path = 'public' } = options
     
