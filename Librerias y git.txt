@@ -1,0 +1,12 @@
+npm i dotenv
+
+npm i env-var > Variables de tipo Puerto
+
+npm i express > instalar servidor
+
+
+git init
+git add .
+git commit -am "comentario"
+git remote add origin https://github.com/matiashrb/node_web_server.git
+git push -u origin master
